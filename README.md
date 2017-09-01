@@ -19,6 +19,7 @@ For beamforming:
 It relies on delay-sum(Phase alignment for source direction), There can be no inteference to enable robustness(suppression direction).
 It also relies on a diffusion nosie model.
 All weight are represet in frequency domain, and there is large distortion in low and high frequecy, beacuse of using a Bandwith average value.
+http://blog.csdn.net/shichaog/article/details/52403107
 
 Welcome anybody who can participate in this project for other algorithm developing.
 
