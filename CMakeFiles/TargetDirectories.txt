@@ -1,0 +1,2 @@
+/home/gsc/codingmath/webrtc-audio-examples/CMakeFiles/audio_proc_test.dir
+/home/gsc/codingmath/webrtc-audio-examples/CMakeFiles/webrtc-audio-process.dir

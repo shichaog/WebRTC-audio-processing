@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/audio_proc_test.dir/src/test/process_test.cc.o CMakeFiles/audio_proc_test.dir/src/test/test_utils.cc.o  -o audio_proc_test  -L/home/gsc/codingmath/webrtc-audio-examples/webrtc-audio-processing/release/lib -rdynamic -lwebrtc_audio_processing -Wl,-rpath,/home/gsc/codingmath/webrtc-audio-examples/webrtc-audio-processing/release/lib 
