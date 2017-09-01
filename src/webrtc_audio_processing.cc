@@ -1,3 +1,8 @@
+/*	09/2017
+	shichaog
+	This is the main test File. Include noise suppresion, AEC, VAD.
+
+*/
 #include <string>
 #include <iostream>
 

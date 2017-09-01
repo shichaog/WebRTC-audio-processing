@@ -13,11 +13,11 @@
 cd webrtc-audio-processing
 rm -f webrtc-audio-process
 make && cd -
-#
-#mkdir -p bin; cd bin; cmake ../; make; cd -
-#
-#set -e
-#
+
+mkdir -p bin; cd bin; cmake ../; make; cd -
+
+set -e
+
 #./bin/webrtc-audio-process -anc 3 data/noise.raw data/noise_anc_3.raw 
 #sox data/speech_16k.wav -p synth whitenoise vol 0.02 | sox -m data/speech_16k.wav - data/addednoise.wav
 #
