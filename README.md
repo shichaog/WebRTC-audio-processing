@@ -3,23 +3,9 @@
 ```
 bash run.sh
 ```
+You May wan't to refer to my ASR git book.
 
-For NS algorithm, you may refer to:
-http://blog.csdn.net/shichaog/article/details/52514816
-
-For VAD algorithm, you may refer to:
-http://blog.csdn.net/shichaog/article/details/52399354
-
-For AEC algorithm, you may refer to:
-fullaec.m aec.jpg and the Paper, more over you can refer to my blog:
-http://blog.csdn.net/shichaog/article/details/71152743
-
-For beamforming:
-	There is no demo in my example code, It's algorithm is simple.
-It relies on delay-sum(Phase alignment for source direction), There can be no inteference to enable robustness(suppression direction).
-It also relies on a diffusion nosie model.
-All weight are represet in frequency domain, and there is large distortion in low and high frequecy, beacuse of using a Bandwith average value.
-http://blog.csdn.net/shichaog/article/details/52403107
+https://shichaog1.gitbooks.io/hand-book-of-asr-processing/content/
 
 Welcome anybody who can participate in this project for other algorithm developing.
 
