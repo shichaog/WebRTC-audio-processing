@@ -3,7 +3,7 @@
 ```
 bash run.sh
 ```
-You May wan't to refer to my ASR git book.
+You May want to refer to my ASR git book.
 
 https://shichaog1.gitbooks.io/hand-book-of-asr-processing/content/
 
