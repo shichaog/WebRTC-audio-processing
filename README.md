@@ -3,13 +3,11 @@
 ```
 bash run.sh
 ```
-You May want to refer to my ASR git book.
+You May want to refer to my git book about speech enhancement and recognition.
 
-https://shichaog1.gitbooks.io/hand-book-of-asr-processing/content/
+https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/
 
 Welcome anybody who can participate in this project for other algorithm developing.
-
-For more test audio source, you may connect me by shichaog@126.com.
 
 I hope this project can help any body who want to know the principle of audio processing.
 
